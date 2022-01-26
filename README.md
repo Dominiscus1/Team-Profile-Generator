@@ -21,6 +21,8 @@
   inquirer
 
   ## Preview
+
+  https://user-images.githubusercontent.com/55556978/151107337-7f72bbe5-712b-42ed-b179-70d697ef2cc4.mp4
   
 
   ## Launch
